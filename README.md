@@ -7,3 +7,4 @@ This class took place in the Spring Semester of 2023, January 19 to May 9. Durin
 ---
 # Acknowledgements
 ---
+I would like to be clear that much of the contents in this portfolio are accredited to other members of the team I worked with. They are among the most talented individuals I've ever worked with and this portfolio would not be possible without their contribution. First and foremost: a huge thanks to the instructor of the class: Adam Forland, who set the tone for the class to operate as professionally and coherently as we did. He was highly inclusive and was like us, the students, in the fact that we were explorers. He provided the curriculum, introduced the projects, and always made himself available in class and outside of class to help us with whatever troubles or questions we had about the material.
