@@ -65,7 +65,6 @@ LINKS:
 ---
 
 ## **Neural Networks**
-Current State: Requires Additional comments, introduction, and conclusion
 
 _The most basic form of a neural net involves taking strings of numbers, called weight matrices and feeding them through an equation known as an activation function. This first exercise involves creating the function with a tool known as sigmoid. The activation function is then applied to every layer the neural net contains to process the data it will be given. This process is known as Forward Passing. A layer in a neural net is a component in the overall arrangement that takes data or information and processes it in a way the programmer determines. The processed data is then passed to the next layer, which does the same thing, but with different parameters from the previous layer in the network. Once the data has been passed through all layers, the performance and overall accuracy of the neural net's findings are evaluated using the Cost Equation or Mean Squared Error. The equation is depicted as follows: $$ \textrm{Cost} = \frac{1}{N} \sum{i=1}^N (a_{1}^{(3)} - y_i) ^ 2 $$._
 
