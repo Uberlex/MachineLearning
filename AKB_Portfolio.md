@@ -15,8 +15,11 @@ _KNN, short for K Nearest Neighbor is a set of tools used to measure the displac
 LINKS:
 
 - https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+ ---
 - Joby, A. (2021, July 19). What Is K-Nearest Neighbor? An ML Algorithm to Classify Data. Learn Hub | G2. https://learn.g2.com/k-nearest-neighbor
+ ---
 - https://www.ibm.com/topics/knn
+ ---
 - Harrison, O. (2019a, July 14). Machine learning basics with the K-nearest neighbors algorithm. Medium. https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 ---
 
@@ -27,8 +30,11 @@ _K Means is a broad category for a lot of different tools, but each of them all 
 LINKS:
 
 - (LEDU), E. E. (2018, September 12). Understanding K-means clustering in machine learning. Medium. https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+---
 - https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+---
 - Banoula, M. (2023, April 13). K-means clustering algorithm: Applications, types, and demos [updated]: Simplilearn. Simplilearn.com. https://www.simplilearn.com/tutorials/machine-learning-tutorial/k-means-clustering-algorithm
+---
 - Piech, C. (2013). CS221. Stanford University. https://stanford.edu/~cpiech/cs221/handouts/kmeans.html
 ---
 
@@ -39,7 +45,9 @@ To determine gradient descent of data is to determine and visualize the trajecto
 LINKS:
 
 - Mirko Stojiljkovic'. (2021, January 27). Stochastic Gradient Descent Algorithm With Python and NumPy – Real Python. Python Tutorials – Real Python. https://realpython.com/gradient-descent-algorithm-python/
+---
 - Gupta, S. (2022, April 17). The 7 Most Common Machine Learning Loss Functions. Built In. https://builtin.com/machine-learning/common-loss-functions
+---
 - Oppermann, A., Powers, J., & Pandey, P. (2022, December 14). How Loss Functions Work in Neural Networks and Deep Learning. Built In. https://builtin.com/machine-learning/loss-functions
 ---
 
@@ -50,8 +58,10 @@ _Evolution of an algorithm is the progression of a machine's learning process in
 LINKS:
 
 - Telikani, A., Tahmassebi, A., Banzhaf, W., & Gandomi, A. (2021, October). Evolutionary Machine Learning: A Survey. ACM Digital Library. https://dl.acm.org/doi/fullHtml/10.1145/3467477
+---
 - Karimi, A., & Baeldung CS. (2022, November 8). An Overview of Evolutionary Algorithms | Baeldung on Computer Science. Baeldung on Computer Science. https://www.baeldung.com/cs/evolutionary-algorithms-for-ai
-- Lange, S. (2022). Evolutionary Algorithems. Albert-Ludwigs University of Freiburg. https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX1cL1-db-AhXsAjQIHeFnC5YQFnoECC8QAQ&url=https://ml.informatik.uni-freiburg.de/former/_media/teaching/ss13/ml/riedmiller/evolution.pdf&usg=AOvVaw3RdSpzhid-2i8s46713JzG
+---
+- Lange, S. (2022). Evolutionary Algorithems. Albert-Ludwigs University of Freiburg.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjX1cL1-db-AhXsAjQIHeFnC5YQFnoECC8QAQ&url=https://ml.informatik.uni-freiburg.de/former/_media/teaching/ss13/ml/riedmiller/evolution.pdf&usg=AOvVaw3RdSpzhid-2i8s46713JzG
 ---
 
 ## **Neural Networks**
@@ -64,6 +74,9 @@ _The result of the MSE is a percentage. The higher the number, the more accurate
 LINKS:
 
 - PhD, M. S. (2019, June 17). Simple Introduction to Neural Networks. Medium. https://towardsdatascience.com/simple-introduction-to-neural-networks-ac1d7c3d7a2c
+---
 - Engati. (2021). Sigmoid function | Engati. https://www.engati.com/glossary/sigmoid-function#toc-what-is-a-sigmoid-function-
+---
 - Gupta, A. (2021, December 15). Mean Squared Error : Overview, Examples, Concepts and More | Simplilearn. Simplilearn.com. https://www.simplilearn.com/tutorials/statistics-tutorial/mean-squared-error
+---
  
