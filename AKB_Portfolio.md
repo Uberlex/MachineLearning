@@ -40,7 +40,7 @@ LINKS:
 
 ## **Linear Regression with Gradient Descent**
 
-To determine gradient descent of data is to determine and visualize the trajectory of the clusters. That kind of visualization is only possible if cluster points are mapped out in relevance to time variables, which represent changes in trajectory over time. With the graphs made, a line of best fit can be formulated to depict what kind of rate of change the clusters are moving in.
+_To determine gradient descent of data is to determine and visualize the trajectory of the clusters. That kind of visualization is only possible if cluster points are mapped out in relevance to time variables, which represent changes in trajectory over time. With the graphs made, a line of best fit can be formulated to depict what kind of rate of change the clusters are moving in._
 
 LINKS:
 
